@@ -1,0 +1,5 @@
+Users_logins = 'yrysova', 'cocoxnut', 'kafarkhad', 'mnatalka','miranda65', 'zaza77', 
+'
+',
+'User_passwords = '12345', '45678', 'fdacs', "asasdf", "nana123", "mimi456"
+
